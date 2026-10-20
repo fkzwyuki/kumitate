@@ -1,0 +1,6 @@
+three.js r160 (npm three@0.160.0)
+source: https://cdn.jsdelivr.net/npm/three@0.160.0/
+files:
+  build/three.module.min.js            -> three.module.min.js
+  examples/jsm/geometries/RoundedBoxGeometry.js -> RoundedBoxGeometry.js (そのまま。import "three" は import map で解決)
+license: MIT (LICENSE)
